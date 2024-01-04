@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "concurrencyutilities",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MeteorGroup/ConcurrencyUtilities.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "22773c00a6df4c00cae41a7e5dbcb908d454435d"
+      }
+    }
+  ],
+  "version" : 2
+}
